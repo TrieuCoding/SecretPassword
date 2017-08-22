@@ -1,0 +1,14 @@
+name: SecretPassword
+main: com.spigot.sp.Main
+description: A security for op account!
+version: 1.5
+
+commands:
+  secretpassword:
+    description: Main command
+    usage: /<command>
+    aliases: [scp]
+
+permissions:
+  scp.cmd:
+    description: Permission to use command

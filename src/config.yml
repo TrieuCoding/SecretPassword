@@ -1,0 +1,17 @@
+prefix: '&7[&9SecretPassword&7]&r '
+
+check-update: true
+
+password-enable: true
+password: 'pAsSw0rD'
+
+msg:
+  reload: '&aReload config!'
+  no-permissions: '&cYou dont have permissions to do this!'
+  join: '&cYou have OP! Please type password on the chat to login!'
+  login: '&aLogin success!'
+  wrong: '&cWrong password!'
+  getip: '&aIP of &f%player% &ais &f%ipaddress%'
+  cant-do: '&cYou cant do it now!'
+
+login-sound: ENTITY_EXPERIENCE_ORB_PICKUP
